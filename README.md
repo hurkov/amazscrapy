@@ -13,6 +13,7 @@ Python Library in use:
 - BeautifulSoup4
 
 Supported Python version: 3.10.0
+To run code you need Chrome
 
 Comment: 
 
